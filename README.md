@@ -76,5 +76,5 @@ The hyperparameters and gradient clipping are not implemented as it is as [[4]](
 
 
 ## Author
-
-Taehoon Kim / [@carpedm20](http://carpedm20.github.io/)
+Casper Na / modified version 
+from Taehoon Kim / [@carpedm20](http://carpedm20.github.io/)
